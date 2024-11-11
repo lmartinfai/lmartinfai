@@ -1,4 +1,4 @@
 # 💫 About Me:
 Frontend Lead at https://kmi-leipzig.de/ for https://www.semper-ki.org/
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" height="auto"/>
